@@ -1,3 +1,5 @@
+**L2 Analytics**
+
 The L2 Analytics Project is an end-to-end, AI-driven analytics and reporting platform designed to transform raw, unstructured, and multimodal data into meaningful insights, reports, and visual narratives. The platform focuses on advanced data analysis, intelligent report generation, semantic search, and interactive data storytelling, enabling users to extract value from documents, folders, chats, links, and video content.
 
 Built on a hybrid architecture, the system combines Node.js for APIs, middleware, authentication, and orchestration with Python-based AI and data processing pipelines for NLP, OCR, analytics, and machine learning. This architecture ensures scalability, modular growth, and seamless integration of future technologies.
